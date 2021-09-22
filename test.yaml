@@ -1,0 +1,7 @@
+purpose: Check sending the data of an api body from a yaml file and whether test through jenkins
+postman:
+ method: POST
+ url: 
+ body: 
+  name: raja
+  job: peek
